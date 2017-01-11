@@ -1,0 +1,6 @@
+framework module TEXTDemoFramework {
+  umbrella header "TEXTDemoFramework.h"
+
+  export *
+  module * { export * }
+}

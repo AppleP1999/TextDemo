@@ -1,0 +1,17 @@
+BCSymbolMap Version: 2.0
+-[MyCarthageObject mxCarthage]
+-[MyCarthageObject setMxCarthage:]
+-[MyCarthageObject .cxx_destruct]
+_OBJC_IVAR_$_MyCarthageObject._mxCarthage
+Apple LLVM version 8.0.0 (clang-800.0.42.1)
+/Users/cyberv/Desktop/TextDemo/MyCarthage/MyCarthageObject.m
+/Users/cyberv/Desktop/TextDemo
+/Users/cyberv/Desktop/TextDemo/MyCarthage/MyCarthageObject.h
+-[MyCarthageView getCarthageSkill]
+-[MyCarthageView carthageSkill]
+-[MyCarthageView setCarthageSkill:]
+-[MyCarthageView .cxx_destruct]
+_OBJC_IVAR_$_MyCarthageView._carthageSkill
+/Users/cyberv/Desktop/TextDemo/MyCarthage/MyCarthageView.m
+/Users/cyberv/Desktop/TextDemo/MyCarthage/MyCarthageView.h
+/Users/cyberv/Library/Developer/Xcode/DerivedData/TextDemo-gtqrclutkxdaibgctymxjnfzulso/Build/Intermediates/TextDemo.build/Release-iphoneos/TEXTDemoFramework.build/DerivedSources/TEXTDemoFramework_vers.c
