@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"hhhhhhh");
+    NSLog(@"hhhhhhh是对方的说法是");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
